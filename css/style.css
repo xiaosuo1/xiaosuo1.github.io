@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/1.jpeg) no-repeat 0px 0px;
     background-size: cover;
     padding: 0em 0 4em;
 }
@@ -109,7 +109,7 @@ body{
     text-decoration: none;
     font-weight: 800;
     font-family: 'Raleway', sans-serif;
-    text-transform: uppercase;
+
     letter-spacing: 7px;
     border: double 4px #FFF;
     padding: .3em;
@@ -273,12 +273,12 @@ ul.dropdown-menu {
     font-size: 4em;
     margin: 0;
     font-family: 'Raleway', sans-serif;
-    text-transform: uppercase;
+
     font-weight: 800;
 }
 .agileits-banner-info h3 span{
 	display: block;
-    text-transform: uppercase;
+
     font-weight: 300;
     color: #FFFFFF !important;
     font-size: .5em !important;
@@ -486,13 +486,13 @@ ul.dropdown-menu {
 .w3-welcome-left h5 {
     color: #000000;
     font-size: 1em;
-    text-transform: uppercase;
+
     font-weight: 600;
     letter-spacing: 4px;
     margin:1em 0 0 0;
 }
 .w3-welcome-left p {
-    color: #999999;
+    color: #333;
     font-size: .9em;
     line-height: 1.8em;
     margin: 1em 0 0 0;
@@ -510,7 +510,7 @@ ul.dropdown-menu {
     text-decoration: none;
     padding: .5em 2em;
     background: none;
-    text-transform: uppercase;
+
     font-weight: 600;
     text-align: center;
     border: solid 1px #000000;
@@ -739,7 +739,7 @@ footer{
 	color: #8d8d8d;
     font-size: .9em;
     margin: .5em 0 0 0;
-    text-transform: uppercase;
+
 }
 .agile-post-grid:nth-child(2){
 	margin:2em 0 0 0;
@@ -767,10 +767,10 @@ footer{
 }
 .popular-grid {
 	float: left;
-    width: 27%;
+    width: 150px;
     margin-right: 1em;
 }
-.popular-grid a img {
+.popular-grid img {
     width: 100%;
     border: solid 2px #fff;
 }
@@ -817,7 +817,7 @@ footer{
 }
 .hf-text p{
       color: #D00030;
-    text-transform: uppercase;
+
     font-size: 1em;
     font-weight: 600;
 }
@@ -1599,7 +1599,7 @@ h2.typoh2{
     text-decoration: none;
     padding: .5em 2em;
     background: none;
-    text-transform: uppercase;
+
     font-weight: 600;
     text-align: center;
     border: solid 1px #000000;
@@ -1834,7 +1834,7 @@ h2.typoh2{
     color: #313131;
     font-size: .875em;
     font-weight: 800;
-    text-transform: uppercase;
+
     margin: .5em 0;
 }
 .mail-grid-left p {
